@@ -10,8 +10,10 @@ body {
     margin:50px;
     padding:20px;
     border:2px solid #0862AD;
+    border-radius:12px;
     margin-bottom:30px;
     width:90%;
+    box-sizing:border-box;
     height:50%
 }
 
@@ -66,4 +68,8 @@ a:hover {
 .container {
     max-width:1200px;
     margin:0 auto;
+}
+
+img:hover {
+    transform:scale(1.05);
 }
