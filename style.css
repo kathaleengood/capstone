@@ -80,6 +80,9 @@ audio {
 }
 
 img {
+    display:block;
+    width:300px;
     max-width:100%;
     height:auto;
+    margin-left:0;
 }
