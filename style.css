@@ -1,9 +1,16 @@
 /* Website Styles */
+
 body {
     background-color: #F0F8FF;
     color: #333333;
     font-family: "Times New Roman", Times, serif;
     font-size:18px;
+    margin:50px;
+    padding:20px;
+    border:2px solid #0862AD;
+    margin-bottom:30px;
+    width:90%;
+    height:50%
 }
 
 h1, h2 {
@@ -12,7 +19,7 @@ h1, h2 {
     font-weight:bold;
 }
 
-{h1
+h1 {
     font-size:36px;
     text-align:center;
 }
@@ -44,4 +51,12 @@ a:visited {
 
 a:hover {
     color:#003D73;
+}
+
+.content-box {
+    padding:10px;
+}
+
+#top {
+    padding-top:10px;
 }
