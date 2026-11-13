@@ -2,6 +2,8 @@
 
 body {
     background-color: #F0F8FF;
+    background-image:url("media/blue-snow.png");
+    background-position:center;
     color: #333333;
     font-family: "Times New Roman", Times, serif;
     font-size:18px;
@@ -59,4 +61,9 @@ a:hover {
 
 #top {
     padding-top:10px;
+}
+
+.container {
+    max-width:1200px;
+    margin:0 auto;
 }
