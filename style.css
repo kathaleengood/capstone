@@ -29,3 +29,19 @@ h3 {
 p {
     line-height:1.5;
 }
+
+section p {
+    font-style:normal;
+} 
+
+a:link {
+    color:#0862AD;
+}
+
+a:visited {
+    color:#663399;
+}
+
+a:hover {
+    color:#003D73;
+}
