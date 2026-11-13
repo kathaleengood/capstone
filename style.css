@@ -5,6 +5,10 @@ body {
 }
 
 h1, h2 {
-    color: #0862AD;
-    text-decoration:underline;
+    color:#0862AD;
+    font-weight:bold
+}
+
+h3 {
+    font-weight:normal
 }
